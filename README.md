@@ -2,7 +2,7 @@
 
 ## 📊 Economista | Data Scientist | Estrategia & Analítica  
 
-Soy **Economista** con **Maestría en Ciencia de Datos** y **Maestría en Ciencias Económicas**.  
+Soy **Economista** con **Maestría en Ciencia de Datos** de la Pontificia Universidad Católica de Chile y **Maestría en Ciencias Económicas** de la Universidad Nacional de Colombia.  
 Cuento con amplia experiencia en el **análisis de datos** para la obtención de información estratégica que impulse la toma de decisiones y la competitividad empresarial.  
 
 Me apasiona la **investigación aplicada**, la **resolución de problemas** y la **automatización de procesos**, con un enfoque en pronósticos, perspectivas de mercado y analítica de valor para los negocios.  
@@ -33,7 +33,7 @@ Me apasiona la **investigación aplicada**, la **resolución de problemas** y la
 
 ---
 
-## 📫 Conéctemos  
+## 📫 Conectemos  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lina-maria-castro)  
 - 📧 **Correo:** lmcastroco@gmail.com  
 - 🐙 [GitHub](https://github.com/LinaMariaCastro)  
